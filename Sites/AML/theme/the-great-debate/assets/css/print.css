@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+.quick-links, .ql, .footer-fixed, .related-posts, #menu-footer, .hero, .share, .rpp
+{
+	display:none;	
+}
+
+a[href]:after 
+{
+   content: none !important;
+}
+
+/*
+#page-middle-two
+{
+	width: 100%; margin: 0; float: none;
+}*/

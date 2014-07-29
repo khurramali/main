@@ -1,0 +1,111 @@
+.cbi_width5 {width: 5%; vertical-align: top!important;}
+.cbi_width10 {width: 10%; vertical-align: top!important;}
+.cbi_width15 {width: 15%; vertical-align: top!important;}
+.cbi_width25 {width: 25%; vertical-align: top!important;}
+.cbi_width20 {width: 20%; vertical-align: top!important;}
+.cbi_width30 {width: 30%; vertical-align: top!important;}
+.cbi_width35 {width: 35%; vertical-align: top!important;}
+.cbi_width40 {width: 40%; vertical-align: top!important;}
+.cbi_width45 {width: 45%; vertical-align: top!important;}
+.cbi_width50 {width: 50%; vertical-align: top!important;}
+.cbi_width100 {width: 100%; vertical-align: top!important;}
+.cbi_width85 {width: 85%; vertical-align: top!important;}
+.cbi_width70 {width: 70%; vertical-align: top!important;}
+.cbi_width80 {width: 80%; vertical-align: top!important;}
+.cbi_width90 {width: 90%; vertical-align: top!important;}
+.cbi_width95 {width: 95%; vertical-align: top!important;}
+.cbi_width75 {width: 75%; vertical-align: top!important;}
+.cbi_texttop {text-align: left; vertical-align: text-top;}
+.cbi_field {margin-bottom: 10px;}
+.cbi_header {margin-bottom: 20px!important;}
+.cbi_description {font-size: 12px;}
+.cbi_add_another, .cbi_upload {margin-bottom: 10px;}
+.hr {border: none; border-top: solid 1px #ccc; margin-bottom: 15px;}
+
+.cbi_texttop textarea.cbi-embed { min-height: 100px; }
+
+#adminmenu .wp-menu-image img { padding: 3px 0 0 3px; }
+.not-show { display: none; }
+.cbi-label { margin-top: -10px; font-style: italic; }
+.cbi-contacts label { font-weight: bold; }
+
+.menu-icon-case_study .dashicons-before:before {
+    font-family: 'tgbd-icons';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\e600";
+}
+
+.menu-icon-opinion .dashicons-before:before {
+    font-family: 'tgbd-icons';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\e60a";
+}
+
+.menu-icon-event .dashicons-before:before,
+.menu-icon-news_item .dashicons-before:before {
+    font-family: 'tgbd-icons';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\e609";
+}
+
+.menu-icon-video .dashicons-before:before,
+.menu-icon-audio .dashicons-before:before {
+    font-family: 'tgbd-icons';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\e606";
+}
+
+.menu-icon-text_fact .dashicons-before:before,
+.menu-icon-graphic_fact .dashicons-before:before,
+.menu-icon-overview .dashicons-before:before,
+.menu-icon-factsheet_fact .dashicons-before:before,
+.menu-icon-data_fact .dashicons-before:before {
+    font-family: 'tgbd-icons';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\e605";
+}

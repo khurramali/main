@@ -1,0 +1,128 @@
+//
+// Nav of Stickiness
+// --------------------------------------------------
+/*
+.container-fixed.sticky {
+	position:fixed;
+	top:0px;
+	background-color: #000;	
+	color: #fff;
+	z-index:999;
+	display:none;
+	
+	.logo-fixed, .navbar-default {
+	    background-color: #000;
+	    height:auto;
+	}
+	
+	.logo-fixed {
+	   height:70px;
+	
+	   header{
+	       .container{
+	           position:relative;
+	           
+		        &:before{
+                    font-family: 'tgbd-icons';
+		           content:"\e611";
+		           font-size:100px;
+		           position:absolute;
+		           left:5%;
+		           top:10px;
+		           line-height:50px;
+		        }
+            }
+        }
+	   img {
+	       display:none;
+	   }
+	}
+	
+	h2 {
+	   position:absolute;
+	   left:166px;
+	   top:15px;
+	   font-size:0.8em;
+	}
+	
+	.navbar {
+	   #menu-primary {
+	       padding-left:90px;
+	       margin-top:43px;
+	   
+	       li {
+            width: auto;
+            
+	            a {
+	                color: #fff;  
+	                border: none;
+	                padding:0px 10px;
+	                font-size:15px;
+		        }
+            } 
+        }
+    }
+}
+*/
+@media (min-width: 768px) {
+	.container-fixed.sticky {
+	    position:fixed;
+	    top:0px;
+	    z-index:800;
+	    opacity:0.95;
+	    
+	    .logo-fixed {
+	        height: auto;
+	    }
+	    
+	    .navbar {
+	        margin-bottom: 6px;
+	    }
+	    
+	    h2, div.logo {
+	       display:none;
+	    }
+	    
+	}
+	 .navbar-collapse .logo-icon {
+	     left:-75px;
+	     top:0;
+	     position:absolute;
+	     display:none;
+	     opacity:0;
+	     z-index: 999;
+	     
+	     &:before{
+	        font-family: 'tgbd-icons';
+	        content:"\e611";
+	        font-size:65px;
+	        line-height:50px;
+	     }
+	 }
+	#menu-primary {
+	   li {
+	       &:nth-child(n+3) {
+	           li {
+	               float:right;
+	           }
+	       }
+	   }
+	}
+}
+
+
+@media (max-width: 767px) {
+	.navbar-collapse.in {
+	   overflow-y: none;
+	   max-height: auto;
+	}
+	.navbar-nav {
+	   margin: 12.5px 5px;
+	}
+}
+ 
+ .logo img {
+    min-height:48px;
+    min-width:98px;
+    max-height:42px;
+ }

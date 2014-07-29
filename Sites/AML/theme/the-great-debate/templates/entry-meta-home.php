@@ -1,0 +1,1 @@
+<time class="published" datetime="<?php echo get_the_time('c'); ?>"><?php echo the_time('d.m.y'); ?></time>
