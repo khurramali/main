@@ -1,0 +1,18 @@
+.tb_width10 {width: 10%; vertical-align: top!important;}
+.tb_width20 {width: 20%; vertical-align: top!important;}
+.tb_width30 {width: 30%; vertical-align: top!important;}
+.tb_width40 {width: 40%; vertical-align: top!important;}
+.tb_width50 {width: 50%; vertical-align: top!important;}
+.tb_width100 {width: 100%; vertical-align: top!important;}
+.tb_width85 {width: 85%; vertical-align: top!important;}
+.tb_width80 {width: 80%; vertical-align: top!important;}
+.tb_width70 {width: 70%; vertical-align: top!important;}
+.tb_width75 {width: 75%; vertical-align: top!important;}
+.tb_texttop {text-align: left; vertical-align: text-top;}
+.tb_field {margin-bottom: 10px;}
+.tb_header {margin-bottom: 20px!important;}
+.tb_description {font-size: 12px;}
+.tb_add_another, .tb_upload {margin-bottom: 10px;}
+.hr {border: none; border-top: solid 1px #ccc; margin-bottom: 15px;}
+
+#adminmenu .wp-menu-image img { padding: 3px 0 0 3px; }

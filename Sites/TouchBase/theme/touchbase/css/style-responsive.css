@@ -1,0 +1,353 @@
+@media (min-width: 1200px) {
+    /* #Misc
+    ================================================== */
+
+    /* Homepage
+    ================================================== */
+
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    /* #Misc
+    ================================================== */    
+    .expanded-bg355 { height: 380px; }
+    .expanded-bg672 { min-height: 750px; }
+    .expanded-bg750 { min-height: 775px; }
+
+    /* Homepage
+    ================================================== */
+    .speechbubble { min-height: 235px; }
+    
+    
+    /* About page
+    ================================================== */
+    .member-roll { min-height: 119px; }
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    /* #Misc
+    ================================================== */    
+    .expanded-bg230 { height: 250px; }
+    .expanded-bg255 { height: 365px; }
+    .expanded-bg355 { height: 470px; }
+    .expanded-bg330 { height: 315px; }
+    .expanded-bg410 { height: 440px; }
+    .expanded-bg480 { height: 540px; }
+    .expanded-bg640 { height: 740px; }
+    .expanded-bg690 { height: 750px; }
+    .expanded-bg672 { height: 890px; }
+    .expanded-bg750 { height: 975px; }
+    
+    /* #Header
+    ================================================== */
+    .header-title { margin: 100px 0; }
+    
+    /* #Header Nav
+    ================================================== */
+    .mobile-main-menu { background-color: #efeded; width: 100%; height: 32px; }
+    .mobile-sec-menu { background-color: #333; width: 100%; height: 32px; }
+    .mobile-main-menu img,
+    .mobile-sec-menu img { float: right; padding: 5px 10px; cursor: pointer; }
+    .mobile-main-menu span { float: right; color: #333; margin-top: 7px; text-transform: uppercase; }
+    .mobile-sec-menu span { float: right; color: #fff; margin-top: 7px; text-transform: uppercase; }
+    .primary-nav { display: none; }
+    .sec-nav { display: none; }
+    
+    .nav-pills>li { width: 100%; }
+    .primary-nav .primary-menu { margin: 0; padding: 0; }
+    .primary-nav .primary-menu br { content: ' '; }
+    .primary-nav .primary-mob-menu li:hover > ul { display: none;  }
+    .primary-menu li a { height: 65px; font-size: 15px; padding-top: 20px; margin-right: 15px; }
+    
+    .primary-menu .e-networking a,
+    .primary-menu .e-networking a:hover,
+    .primary-menu .n-services a,
+    .primary-menu .n-services a:hover { padding-top: 20px; }
+    
+    .primary-menu .collaboration,
+    .primary-menu .e-networking,
+    .primary-menu .security,
+    .primary-menu .n-services,
+    .primary-menu .data-centre { background-position: 10px 12px; }
+    
+    .secondary-menu li a { height: 65px; font-size: 15px; padding-top: 20px; }
+    .secondary-menu .about,
+    .secondary-menu .k-exchange,
+    .secondary-menu .news,
+    .secondary-menu .clients,
+    .secondary-menu .partners  { background-position: 10px 12px; margin-left: 0px; }
+    .secondary-menu .k-exchange a { margin-right: 0px; }
+    
+    .primary-nav .primary-menu ul { position: relative; }
+
+    /* Homepage
+    ================================================== */    
+    .home-technology-wrapper .section { min-height: 160px; }
+    .speechbubble { min-height: 300px; }
+    
+    /* Technology pages
+    ================================================== */
+    .approach-section p { padding: 0 12px; }
+
+    .approach-speech .speechbubble { margin: 0; min-height: 265px; }
+    .approach-speech p { margin: 0 15px; }
+    .approach-speech .speechbubble-triangle { left: 130px; }
+    
+    /* About page
+    ================================================== */
+    .member-roll { background-color: #EE0000; color: #fff; padding: 1px; min-height: 120px; }
+    
+    /* Approach page
+    ================================================== */
+    .mobile-padd { padding-top: 10px; }
+    .process-wrapper { min-height: 201px; }
+    
+    /* News page
+    ================================================== */
+    .hide-mobile { display: none; position: absolute; margin-left: 50%; }
+    .filter-mob { float: right; padding-top: 10px; cursor: pointer; }
+    
+    /* Client Page
+    ================================================== */
+    .client-commits .col-xs-11 { width: 90%; }
+    
+    /* Opportunity Page
+    ================================================== */
+    .review-slider .speechbubble { min-height: 290px; }
+    .review-slider .bx-wrapper .bx-prev { left: -38px; }
+    .review-slider .bx-wrapper .bx-next { right: -38px; }
+    .job-item { min-height: 240px; }
+    
+    /* Contact Us Page
+    ================================================== */
+    .contact-wrapper .section { min-height: 180px; }
+    .contact-wrapper p { min-height: 65px; }
+    .social-share a img { width: 40px; }
+    
+    /* Footer
+    ================================================== */
+    .site-map-menu { font-size: 14px; }
+    .btn-client div { background-position: 5%; }
+
+}
+
+@media (max-width: 767px) {
+    body { font-size: 14px; }
+    h1 { font-size: 25px; }
+    h2 { font-size: 22px; }
+    
+    /* #Misc
+    ================================================== */    
+    .expanded-bg150 { height: 160px; }
+    .expanded-bg230 { height: 260px; }
+    .expanded-bg245 { height: 365px; }
+    .expanded-bg255 { height: 355px; }
+    .expanded-bg355 { height: 730px; }
+    .expanded-bg480 { height: 940px; }
+    .expanded-bg520 { height: 720px; }
+    .expanded-bg640 { height: 730px; }
+    .expanded-bg690 { height: 775px; }
+    .expanded-bg650 { height: 1000px; }
+    .expanded-bg672 { height: 850px; }
+    .expanded-bg750 { height: 1125px; }
+    
+    /* #Header
+    ================================================== */
+    .header-title { margin: 100px 0; }
+    
+    /* #Header Nav
+    ================================================== */
+    .mobile-main-menu { background-color: #efeded; width: 100%; height: 32px; }
+    .mobile-sec-menu { background-color: #333; width: 100%; height: 32px; }
+    .mobile-main-menu img,
+    .mobile-sec-menu img { float: right; padding: 5px 10px; cursor: pointer; }
+    .mobile-main-menu span { float: right; color: #333; margin-top: 7px; text-transform: uppercase; }
+    .mobile-sec-menu span { float: right; color: #fff; margin-top: 7px; text-transform: uppercase; }
+    .primary-nav { display: none; }
+    .sec-nav { display: none; }
+    
+    .nav-pills>li { width: 100%; }
+    .primary-nav .primary-menu { margin: 0; padding: 0; }
+    .primary-nav .primary-menu br { content: ' '; }
+    .primary-nav .primary-mob-menu li:hover > ul { display: none;  }
+    .primary-menu li a { height: 65px; font-size: 15px; padding-top: 20px; margin-right: 15px; }
+    
+    .primary-menu .e-networking a,
+    .primary-menu .e-networking a:hover,
+    .primary-menu .n-services a,
+    .primary-menu .n-services a:hover { padding-top: 20px; }
+    
+    .primary-menu .collaboration,
+    .primary-menu .e-networking,
+    .primary-menu .security,
+    .primary-menu .n-services,
+    .primary-menu .data-centre { background-position: 10px 12px; }
+    
+    .secondary-menu li a { height: 65px; font-size: 15px; padding-top: 20px; }
+    .secondary-menu .about,
+    .secondary-menu .k-exchange,
+    .secondary-menu .news,
+    .secondary-menu .clients,
+    .secondary-menu .partners  { background-position: 10px 12px; margin-left: 0px; }
+    .secondary-menu .k-exchange a { margin-right: 0px; }
+
+    .primary-nav .primary-menu ul { position: relative; }
+    
+    /* Pages
+    ================================================== */
+    .content-wrapper { padding: 15px 10px; }
+    
+    /* Homepage
+    ================================================== */
+    .header-img { height: 150px; }
+    .header-title { margin: 30px 0; }
+    .header-title h1 { margin-left: 0; text-align: center; }
+    .header-title h2 { margin-left: 0; text-align: center; }
+                       
+    .home-wrapper { text-align: center; padding: 20px 0; }
+    .home-wrapper div a { display: none; }
+    .home-wrapper h2 { padding-top: 0; }
+    .home-wrapper p { margin-left: 0; }
+    .approach-mob { text-align: center; }
+    .speech-wrapper { margin-bottom: 0; }
+    .mobile-margin { margin-bottom: 55px; }
+    .speechbubble { min-height: 150px; }
+    .speechbubble .by { margin-left: 0; text-align: right; font-style: italic; }
+    .mob_client_slider { padding: 10px 35px; }
+    .mob_client_slider h1 { margin-left: -15px; }
+    
+    .supporting-map { padding: 35px 0 100px 0; background-position: 10px 30px; background-size: 500px; }
+    .supporting-map h1 { margin: 0; margin-bottom: 35px; }
+    .supporting-map p { font-size: 16px; }
+    
+    /* Technology pages
+    ================================================== */
+    .tech-content-wrapper { text-align: center; padding: 20px 0; }
+    .tech-content-wrapper div a { display: none; }
+    .tech-content-wrapper h1 { padding-top: 0; margin-left: 0!important; }
+    .tech-content-wrapper p { margin-left: 0; }
+    
+    .technology-wrapper .section { min-height: 0; }
+    .approach-section p { padding: 0; }
+    .approach-speech .speechbubble { margin: 0; }
+    .approach-speech p { margin: 0 10px; }
+    
+    .approach-speech .speechbubble-triangle { left: 45px; }
+    
+    /* About page
+    ================================================== */
+    .principlebubble { min-height: 150px; }
+    .member { margin-bottom: 20px; width: 120px; height: 120px; float: left; margin-right: 20px; }
+    .separator { width: 105px; }
+    .member-roll { height: 100%; }
+    
+    /* Approach page
+    ================================================== */
+    .process-margin { margin-left: 0; }
+    .process-wrapper { min-height: 0; }
+    
+    /* Partnership page
+    ================================================== */
+    .mob-space { margin-top: 15px; }
+    
+    /* Opportunity Page
+    ================================================== */
+    .job-item { min-height: 0px; }
+    
+    /* News page
+    ================================================== */
+    .post-side-date .side-day { font-size: 26px; margin-bottom: 0; }
+    .twitter-feed { background-position-x: right; }
+    
+    .hide-mobile { display: none; position: absolute; margin-left: 30%; }
+    .filter-mob { float: right; padding-top: 10px; }
+    .filter-mob img { cursor: pointer; }
+    
+    /* Contact Us Page
+    ================================================== */
+    .contact-wrapper h1,
+    .contact-wrapper p,
+    .social-share .linkedin,
+    .contact-wrapper a.connect { margin-left: 0; }
+    .join-us { margin-top: 30px; margin-left: 0; }
+    .join-us h1 { margin: 10px; }
+    
+    .social-share { margin-top: 0; }
+    .social-share a img { width: 50px; }
+
+    
+    /* Footer
+    ================================================== */
+    .footer-bg { height: 480px; }
+    .footer { font-size: 12px; }
+    .site-map-menu li { text-indent: -7px; }
+    .social-items { margin: 0; }
+    .btn-client div { background-position-x: 30%; }
+
+}
+
+@media (min-width: 612px) and (max-width: 767px) {
+    /* #Misc
+    ================================================== */    
+    .expanded-bg330 { height: 300px; }
+}
+
+@media (min-width: 411px) and (max-width: 494px) {
+    /* #Misc
+    ================================================== */    
+    .expanded-bg330 { height: 380px; }
+}
+
+@media (min-width: 321px) and (max-width: 410px) {
+    /* #Misc
+    ================================================== */    
+    .expanded-bg330 { height: 425px; }
+}
+
+
+@media (max-width: 360px) {
+    
+    /* #Misc
+    ================================================== */    
+    .expanded-bg150 { height: 180px; }
+    .expanded-bg230 { height: 350px; }
+    .expanded-bg245 { height: 310px; }
+    .expanded-bg255 { height: 355px; }
+    .expanded-bg330 { height: 485px; }
+    .expanded-bg355 { height: 850px; }
+    .expanded-bg410 { height: 440px; }
+    .expanded-bg480 { height: 975px; }
+    .expanded-bg520 { height: 770px; }
+    .expanded-bg640 { height: 875px; }
+    .expanded-bg690 { height: 950px; }
+    .expanded-bg650 { height: 1035px; }
+    .expanded-bg672 { height: 1120px; }
+    .expanded-bg750 { height: 1500px; }
+    
+    /* Homepage
+    ================================================== */
+    .header-title h1 span { font-size: 50px; }
+    .header-title h2 span { font-size: 25px; }
+    
+    /* About page
+    ================================================== */
+    .member { width: 100px; height: 100px; }
+    .separator { width: 85px; }
+    .member-roll { min-height: 100px; }
+                   
+    /* Client Page
+    ================================================== */
+    .client-commits .col-xs-11 { width: 88%; }
+    
+    /* News page
+    ================================================== */
+    .post-side-date { padding-left: 5px; padding-top: 5px; }
+    .post-side-date .side-day { font-size: 20px; margin-bottom: 0; }
+    
+    /* Footer
+    ================================================== */
+    .site-map-menu li { text-indent: 0; }
+    .btn-client div { background-position-x: 15%; }
+}
